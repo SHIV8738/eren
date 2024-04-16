@@ -1,0 +1,24 @@
+/* Use named colors */
+h1 {
+    color: blue;
+    background-color: yellow;
+  }
+  
+  /* Use hexadecimal color codes */
+  p {
+    color: #00ff00; /* Green */
+    background-color: #ff00ff; /* Magenta */
+  }
+  
+  /* Use RGB values */
+  div {
+    color: rgb(0, 0, 255); /* Blue */
+    background-color: rgb(255, 255, 0); /* Yellow */
+  }
+  
+  /* Use HSL values */
+  span {
+    color: hsl(0, 100%, 50%); /* Red */
+    background-color: hsl(60, 100%, 50%); /* Yellow */
+  }
+  
